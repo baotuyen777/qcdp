@@ -1,0 +1,25 @@
+#footer-thankyou {
+	display:none;
+}
+#footer-upgrade {
+	display:none;
+}
+.update-nag {
+	display : none;
+}
+#wp-admin-bar-updates{
+	display: none;
+}
+#wp-admin-bar-comments{
+	display: none;
+}
+#wp-admin-bar-wpseo-menu{
+	display: none;
+}
+
+body.edit-tags-php #col-left .tagcloud{
+	display: none;
+}
+.hide-if-no-customize{
+	display: none;
+}
